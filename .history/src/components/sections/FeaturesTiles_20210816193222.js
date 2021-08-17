@@ -67,7 +67,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">#Problem Solver</h4>
+                  <h4 className="mt-0 mb-8">Achiever</h4>
                   <p className="m-0 text-sm"></p>
                 </div>
               </div>
@@ -155,11 +155,11 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">#Developer</h4>
+                  <h4 className="mt-0 mb-8">Developer</h4>
                   <p className="m-0 text-sm">
-                    {/* Duis aute irure dolor in reprehenderit in voluptate velit
+                    Duis aute irure dolor in reprehenderit in voluptate velit
                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat. */}
+                    occaecat cupidatat.
                   </p>
                 </div>
               </div>
@@ -181,11 +181,11 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">#Leader</h4>
+                  <h4 className="mt-0 mb-8">Leader</h4>
                   <p className="m-0 text-sm">
-                    {/* Duis aute irure dolor in reprehenderit in voluptate velit
+                    Duis aute irure dolor in reprehenderit in voluptate velit
                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat. */}
+                    occaecat cupidatat.
                   </p>
                 </div>
               </div>

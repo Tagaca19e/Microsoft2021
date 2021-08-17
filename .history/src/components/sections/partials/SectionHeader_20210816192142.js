@@ -35,14 +35,9 @@ const SectionHeader = ({ className, data, children, tag, ...props }) => {
                 )}
               >
                 EXPLAINING A CONCEPT
-              </Component>
             )}
             {data.paragraph && (
-              <p className="m-0">
-                In this video I will cover on how I would I explain a simple
-                concept to a friend. I simply broke it down to simple steps and
-                made sure I had an example. Enjoy!
-              </p>
+              <p className="m-0">fdg sfdgfdsgfdsgfsdgfdsgsdfgfdsgsdfgdf</p>
             )}
           </div>
         </div>

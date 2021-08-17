@@ -107,23 +107,24 @@ const Header = ({
                 <div className="header-nav-inner">
                   <ul className="list-reset header-nav-right">
                     <li>
-                      <a
+                      <Link
                         className="button button-primary button-wide-mobile button-sm"
                         href="https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/"
                       >
                         LinkedIn
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                   {!hideSignin && (
                     <ul className="list-reset header-nav-right">
                       <li>
-                        <a
+                        <Link
+                          to="#0"
                           className="button button-primary button-wide-mobile button-sm"
-                          href="https://github.com/Tagaca19e"
+                          onClick={closeMenu}
                         >
-                          Github
-                        </a>
+                          LinkedIn
+                        </Link>
                       </li>
                     </ul>
                   )}

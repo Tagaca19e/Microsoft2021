@@ -9,12 +9,7 @@ const FooterNav = ({ className, ...props }) => {
     <nav {...props} className={classes}>
       <ul className="list-reset">
         <li>
-          <a href="mailto: etagaca@csub.edu">Contact</a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/">
-            About me
-          </a>
+          <Link to="#0">Contact</Link>
         </li>
       </ul>
     </nav>

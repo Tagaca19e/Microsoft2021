@@ -68,10 +68,11 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                I am driven and ambitious and my interests include software
-                engineering, web development, and solving data structure
-                problems. I am experienced in both frontend and backend
-                programming.
+                My interests include software engineering, web development, and
+                solving data structure problems. I am experienced in both
+                frontend and backend programming. I am driven and ambitious, and
+                I want to work in a field that will challenge me while also
+                allowing me to put my leadership skills to good use
               </p>
               {/* <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

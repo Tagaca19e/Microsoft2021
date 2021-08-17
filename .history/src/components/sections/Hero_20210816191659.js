@@ -68,12 +68,10 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                I am driven and ambitious and my interests include software
-                engineering, web development, and solving data structure
-                problems. I am experienced in both frontend and backend
-                programming.
+                Our landing page template works on all devices, so you only have
+                to set it up once, and get beautiful results forever.
               </p>
-              {/* <div className="reveal-from-bottom" data-reveal-delay="600">
+              <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button
                     tag="a"
@@ -92,7 +90,7 @@ const Hero = ({
                     View on Github
                   </Button>
                 </ButtonGroup>
-              </div> */}
+              </div>
             </div>
           </div>
           <div

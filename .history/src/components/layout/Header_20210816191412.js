@@ -118,10 +118,7 @@ const Header = ({
                   {!hideSignin && (
                     <ul className="list-reset header-nav-right">
                       <li>
-                        <a
-                          className="button button-primary button-wide-mobile button-sm"
-                          href="https://github.com/Tagaca19e"
-                        >
+                        <a className="button button-primary button-wide-mobile button-sm">
                           Github
                         </a>
                       </li>
