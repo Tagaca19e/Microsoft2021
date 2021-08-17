@@ -1,12 +1,12 @@
 import React from "react";
-import { Hashouter, Route } from "react-router-dom";
-import hero from "./";
+import { HashRouter, Route } from "react-router-dom";
 
 const AppRoute = ({ component: Component, layout: Layout, ...rest }) => {
   Layout = Layout === undefined ? (props) => <>{props.children}</> : Layout;
 
   return (
-    <Route
+    <HashRouter
+      basename="/"
       {...rest}
       render={(props) => (
         <Layout>
