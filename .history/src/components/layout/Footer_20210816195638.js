@@ -5,7 +5,6 @@ import Logo from "./partials/Logo";
 import FooterNav from "./partials/FooterNav";
 import FooterSocial from "./partials/FooterSocial";
 import CodeIcon from "@material-ui/icons/Code";
-import LaptopIcon from "@material-ui/icons/Laptop";
 
 const propTypes = {
   topOuterDivider: PropTypes.bool,
@@ -41,7 +40,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
             <div className="footer-copyright">
-              Coded by{" "}
+              Made by{" "}
               <a href="https://www.linkedin.com/in/eidmone-tagaca-6ab45717b/">
                 Eidmone
               </a>

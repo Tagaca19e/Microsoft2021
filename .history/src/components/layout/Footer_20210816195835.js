@@ -35,6 +35,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
         >
           <div className="footer-top space-between text-xxs">
             <CodeIcon style={{ color: "white" }} fontSize="large" />
+            <LaptopIcon style={{ color: "white" }} fontSize="large" />
 
             {/* <FooterSocial /> */}
           </div>
