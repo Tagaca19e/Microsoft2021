@@ -4,7 +4,7 @@ import classNames from "classnames";
 import Logo from "./partials/Logo";
 import FooterNav from "./partials/FooterNav";
 import FooterSocial from "./partials/FooterSocial";
-import CodeIcon from "@material-ui/icons/Code";
+// import CodeIcon from "@material-ui/icons/Code";
 
 const propTypes = {
   topOuterDivider: PropTypes.bool,

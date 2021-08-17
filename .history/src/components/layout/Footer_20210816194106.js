@@ -4,7 +4,6 @@ import classNames from "classnames";
 import Logo from "./partials/Logo";
 import FooterNav from "./partials/FooterNav";
 import FooterSocial from "./partials/FooterSocial";
-import CodeIcon from "@material-ui/icons/Code";
 
 const propTypes = {
   topOuterDivider: PropTypes.bool,
@@ -33,7 +32,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
           )}
         >
           <div className="footer-top space-between text-xxs">
-            {/* <CodeIcon /> */}
+            ⚒️
             {/* <FooterSocial /> */}
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
